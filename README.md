@@ -11,10 +11,10 @@ Paises.xlsx
 Population.xlsx
 
 # Herramientas
-Power BI
-Excel
+- Power BI
+- Excel
 
 # Autor
-Nombre: Hernán Araya
-Email: hernan.araya96@outlook.com
-Website: https://hdesarrollocr.com/
+- Nombre: Hernán Araya
+- Email: hernan.araya96@outlook.com
+- Website: https://hdesarrollocr.com/
