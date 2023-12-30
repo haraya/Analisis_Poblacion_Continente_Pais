@@ -6,9 +6,9 @@ Proyecto de análisis demográfico usando Power BI: Exploración de datos de pob
 
 # Requirimientos:
 Los archivos de Excel a utilizar son:
-Countries.xlsx
-Paises.xlsx
-Population.xlsx
+- Countries.xlsx
+- Paises.xlsx
+- Population.xlsx
 
 # Herramientas
 - Power BI
