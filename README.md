@@ -2,7 +2,7 @@
 📋🖥️Es un reporte sobre el Análisis Población Continente País hecho en Power BI
 
 # Descripción
-Proyecto de análisis demográfico usando Power BI: Exploración de datos de población a nivel mundial. Gráficos interactivos por continente y país, con visualizaciones claras y comparativas. Incluye archivos de datos, informes y visualizaciones desarrolladas en Power BI para comprender mejor la distribución demográfica a escala global.
+Este proyecto está enfocado en analizar datos de población a nivel mundial utilizando Power BI. El objetivo principal es medir y visualizar la cantidad de población de diferentes países y continentes, presentando gráficos interactivos que muestran la distribución de la población de mayor a menor. El repositorio contiene archivos de datos, informes en Power BI y posiblemente scripts utilizados para limpiar y visualizar los datos.
 
 # Requirimientos:
 Los archivos de Excel a utilizar son:
